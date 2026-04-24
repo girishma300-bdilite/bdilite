@@ -110,6 +110,7 @@ footer {
 }
 
 .careers-btn {
-    display: inline-block;
-    margin-top: 15px;
+    display: block;
+    width: fit-content;
+    margin: 15px auto 0;
 }
