@@ -104,3 +104,12 @@ footer {
     justify-content: center;
     text-align: center;
 }
+
+.address-block {
+    margin-top: 15px;
+}
+
+.careers-btn {
+    display: inline-block;
+    margin-top: 15px;
+}
